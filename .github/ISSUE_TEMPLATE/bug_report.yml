@@ -3,7 +3,7 @@ description: Report a bug or unexpected behavior
 title: "[Bug]: "
 labels: ["bug"]
 projects: ["panckeyk/6"]
-assignees: []
+assignees: ["jellablue","anthonyA1214","arkmers","Jhon Railei Dugayo","Vinmar12","khaito1771"]
 body:
   - type: textarea
     id: description
