@@ -3,7 +3,7 @@ description: Create a new task with user story, flow, and acceptance criteria.
 title: "[Ticket #] - [Task Title]"
 labels: ["task"]
 projects: ["panckeyk/6"]
-assignees: []
+assignees: ["jellablue","anthonyA1214","arkmers","Jhon Railei Dugayo","Vinmar12","khaito1771"]
 body:
   - type: input
     id: ticket-number
